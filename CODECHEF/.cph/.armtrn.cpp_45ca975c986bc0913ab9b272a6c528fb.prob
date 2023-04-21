@@ -1,0 +1,1 @@
+{"name":"Local: armtrn","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\CODECHEF\\armtrn.cpp","tests":[{"id":1657124354973,"input":"4\n2\n500 500\n3\n500 500 500\n4\n100 800 300 500\n4\n300 700 800 200\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\CODECHEF\\armtrn.cpp","group":"local","local":true}

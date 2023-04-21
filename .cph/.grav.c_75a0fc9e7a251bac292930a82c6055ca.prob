@@ -1,0 +1,1 @@
+{"name":"Local: grav","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\grav.c","tests":[{"id":1654462256627,"input":"0.3\n800\n11000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\grav.c","group":"local","local":true}

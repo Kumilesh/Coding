@@ -1,0 +1,1 @@
+{"name":"Local: hungrychef","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\hungrychef.cpp","tests":[{"id":1658497316458,"input":"5\n2 10 4 12\n4 8 10 50\n99 100 5 10\n9 10 10 200\n0 5 5 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\hungrychef.cpp","group":"local","local":true}

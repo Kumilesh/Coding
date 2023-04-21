@@ -1,0 +1,1 @@
+{"name":"Local: dense","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\dense.py","tests":[{"id":1655915017210,"input":"4\n8\n()(())()\n6\n((()))\n10\n()()()()()\n8\n((()))()","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\dense.py","group":"local","local":true}

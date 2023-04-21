@@ -1,0 +1,1 @@
+{"name":"Local: subarrayXor","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\subarrayXor.cpp","tests":[{"id":1647071816780,"input":"3\n2\n10\n3\n101\n4\n1111","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\subarrayXor.cpp","group":"local","local":true}

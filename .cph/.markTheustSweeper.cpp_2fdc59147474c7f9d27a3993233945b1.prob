@@ -1,0 +1,1 @@
+{"name":"Local: markTheustSweeper","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\markTheustSweeper.cpp","tests":[{"id":1657898294865,"input":"4\n3\n2 0 0\n5\n0 2 0 2 0\n6\n2 0 3 0 4 6\n4\n0 0 0 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\markTheustSweeper.cpp","group":"local","local":true}

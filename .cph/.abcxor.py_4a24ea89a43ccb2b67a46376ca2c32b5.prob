@@ -1,0 +1,1 @@
+{"name":"Local: abcxor","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\abcxor.py","tests":[{"id":1655918328248,"input":"3\n2 1\n3 0\n9 100\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\abcxor.py","group":"local","local":true}

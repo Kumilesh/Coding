@@ -1,0 +1,1 @@
+{"name":"Local: eqbyxor","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\eqbyxor.cpp","tests":[{"id":1655656696096,"input":"3\n5 5 2\n3 7 8\n8 11 1\n12 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\eqbyxor.cpp","group":"local","local":true}

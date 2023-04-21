@@ -1,0 +1,1 @@
+{"name":"Local: bulblife","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\Recursion\\Graphs\\bulblife.cpp","tests":[{"id":1649861916840,"input":"3\n3 4\n1 5\n4 2\n5 8 6\n3 1000\n0 0\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\Recursion\\Graphs\\bulblife.cpp","group":"local","local":true}

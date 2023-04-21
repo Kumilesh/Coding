@@ -1,0 +1,1 @@
+{"name":"Local: pseudosort","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\pseudosort.cpp","tests":[{"id":1650696504787,"input":"3\n5\n3 5 7 9 6\n4\n1 3 2 3\n3\n3 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\pseudosort.cpp","group":"local","local":true}

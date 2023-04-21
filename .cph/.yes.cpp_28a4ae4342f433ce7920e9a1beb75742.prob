@@ -1,0 +1,1 @@
+{"name":"Local: yes","url":"c:\\Users\\kumilesh\\Desktop\\Python CP\\yes.cpp","tests":[{"id":1657637267552,"input":"10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kumilesh\\Desktop\\Python CP\\yes.cpp","group":"local","local":true}
